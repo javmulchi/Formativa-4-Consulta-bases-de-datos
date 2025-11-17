@@ -24,12 +24,15 @@
 ## Solución planteada:
 
 Caso 1
+
 <img width="658" height="446" alt="Captura de pantalla 2025-11-17 183614" src="https://github.com/user-attachments/assets/ecdcec13-f111-4403-be36-f31a70b9e238" />
 
 Caso 2
+
 <img width="723" height="132" alt="Captura de pantalla 2025-11-17 183602" src="https://github.com/user-attachments/assets/237f6630-6fdd-4f14-8a13-7b4a0025f333" />
 
 Caso 3
+
 <img width="1085" height="488" alt="Captura de pantalla 2025-11-17 183547" src="https://github.com/user-attachments/assets/9747dba9-fc4a-4d03-82ac-b17f50908bc6" />
 
 
